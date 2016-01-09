@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Westler & Orrbeck]]></title>
+        <description><![CDATA[Westler & Orrbeck]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 16:46:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A MAGICAL MORNING]]></title>
+            <description><![CDATA[<article><h1>A MAGICAL MORNING</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb47fcab090dd5baaa072bcc1c72d832638779ad.png"></article>]]></description>
+            <link>undefineda-magical-morning/index.html</link>
+            <guid isPermaLink="false">fa0cb5d6-cd3d-4f3d-98ae-27e3656db5fe</guid>
+            <pubDate>Sat, 09 Jan 2016 16:45:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
