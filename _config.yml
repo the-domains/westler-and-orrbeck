@@ -1,0 +1,28 @@
+name: 'Westler & Orrbeck'
+favicon: null
+layout_spectrum: 0.9729509362950921
+typography_spectrum: 0.7235354781150818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26189256529323757
+  lightness: 0.6555192498490214
+  saturation: 0.3457256203982979
+  rhythmicContrast: 0.4948108128737658
+purpose: []
