@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Orrbeck just got home from skiing in the northern part of Sweden and was eager to cast the line again.  Really eager. That’s why we practically were alone on the early ferry to the outer archipelago. The sun hadn’t reached the eastern horizon as we assembled our gear and started walking towards one of our favourite spots.
-datePublished: '2016-01-09T16:45:57.041Z'
-dateModified: '2016-01-09T16:44:58.085Z'
+datePublished: '2016-01-10T06:03:19.228Z'
+dateModified: '2016-01-09T16:45:57.041Z'
 title: A MAGICAL MORNING
 author: []
 authors: []
