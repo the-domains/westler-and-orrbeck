@@ -1,4 +1,4 @@
-title: 'Westler & Orrbeck – finest fishing available'
+title: Westler & Orrbeck – finest fishing available
 purpose: []
 collections:
   - index:
@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.3457256203982979
-  lightness: 0.6555192498490214
-  brandStrength: 0.5193341
+  saturation: 0.4226638
+  brandStrength: 0.744898
+  lightness: 0.2218045
   brandColors:
-    - '#383139'
-    - '#D4D4D4'
-    - '#6F88A3'
-    - '#5D5C64'
-    - '#A37891'
-  rhythmicContrast: 0.4948108128737658
+    - '#7E8FA1'
+    - '#C1D2E4'
+    - '#3E454D'
+    - '#FFFDE4'
+    - '#1E1E1E'
+  rhythmicContrast: 0.4935553
 cta:
   bucket: null
   version: null
@@ -32,10 +32,10 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: 'Westler & Orrbeck'
+name: Westler & Orrbeck
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.7235354781150818
-layout_spectrum: 0.9729509362950921
+typography_spectrum: 0.4044038
+layout_spectrum: 0.9865735
